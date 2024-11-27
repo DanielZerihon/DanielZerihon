@@ -1,5 +1,5 @@
 # Hi there, I’m Daniel Zerihon 👋
-## 🚀 DevOps Engineer | Infra | Cloud | SRE
+## 🚀 DevOps < Infra | Cloud | SRE > Engineer
 ## 💡 My Projects
 ### 🐳 Kubernetes Projects
 - **[ordersApplicationK8S](https://github.com/DanielZerihon/ordersApplicationK8S):**  
