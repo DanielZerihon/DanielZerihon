@@ -10,10 +10,10 @@
 - **[awsPythonCicdProject](https://github.com/DanielZerihon/awsPythonCicdProject):**  
   A CI/CD pipeline setup using AWS CodePipeline and CodeBuild for deploying Python applications.
 #### 📜 Infrastructure as Code (IaC)
-##### 🛠️ Terraform:
+#### 🛠️ Terraform
 - **[terraformAwsVpcProject](https://github.com/DanielZerihon/terraformAwsVpcProject):**  
   Terraform scripts to set up a fully functional VPC in AWS with subnets, route tables, and security groups.
-##### ⚙️ Ansible:
+#### ⚙️ Ansible
 - **[setUpMonitorBaseAlertApplication](https://github.com/DanielZerihon/setUpMonitorBaseAlertApplication):**  
   A monitoring system based on IAC using Ansible, python flask, Prometheus, Telegraf, and more for real-time alerting work flow.
 #### 🔍 Monitoring and Automation
