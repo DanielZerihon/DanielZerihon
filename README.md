@@ -1,20 +1,5 @@
-# Hi there, I’m Daniel Zerihon 👋  
-
-🚀 **DevOps Engineer | Infra | Cloud | SRE**  
-🔧 Passionate about building scalable, automated, and efficient systems in cloud environments.
-
----
-
-## 🚀 About Me
-- 🌱 **Currently Exploring:** Advanced AWS services, Kubernetes, CI/CD pipelines and more devops tools.  
-- 🔭 **DevOps Expertise:** Containerization, Cloud, Infrastructure as Code (IaC), Monitoring, and Automation.  
-- 🛠️ **Tech Stack:**  
-  - **Cloud:** AWS (Lambda, CodePipeline, CodeBuild, CloudFront, VPC)  
-  - **Containerization:** Docker, Kubernetes  
-  - **IaC:** Terraform, Ansible  
-  - **Monitoring:** Prometheus, Grafana, Telegraf  
-  - **Languages:** Python, Bash, Groovy, Go  
-
+# Hi there, I’m Daniel Zerihon 👋
+## 🚀 DevOps Engineer | Infra | Cloud | SRE
 📫 **Contact Me:**  
 [📧 Email](mailto:daniel92023@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/danielzerihon-5874331b4)  
 
@@ -46,7 +31,7 @@ I’ve organized my projects into categories to showcase my expertise in differe
 
 ### 🔍 Monitoring and Automation
 - **[setUpMonitorBaseAlertApplication](https://github.com/DanielZerihon/setUpMonitorBaseAlertApplication):**  
-  A monitoring system using Ansible, python flask, Prometheus, Telegraf, and more for real-time alerting work flow.
+  A monitoring system based on IAC using Ansible, python flask, Prometheus, Telegraf, and more for real-time alerting work flow.
 
 ---
 
