@@ -20,7 +20,7 @@
 
 - **[setUpMonitorBaseAlertApplication](https://github.com/DanielZerihon/setUpMonitorBaseAlertApplication):**  
   A monitoring system based on IAC using Ansible, python flask, Prometheus, Telegraf, and more for real-time alerting work flow.
-- **[ High-Performance Computing (HPC) Automation Repository Project](https://github.com/DanielZerihon/HPC-Preventive-Maintenance):**  
+- **[ High-Performance Computing (HPC) Automation Cron-Project](https://github.com/DanielZerihon/HPC-Preventive-Maintenance):**  
   This repository contains a project for a large scale system, this project ran on production enviroment on over 1000 nodes. using slurm, docker, jenkins, python, groovy, bash and more. 
 
 ---
